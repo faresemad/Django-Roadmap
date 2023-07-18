@@ -18,8 +18,8 @@
  - [x] Views [ customize mixins ]
  - [x] Templates [ customiza filters & tags ]
  - [x] Translation
- - [ ] Payment
- - [ ] Channels
+ - [x] Payment
+ - [x] Channels
  - [x] Celery & Redis
  - [x] Testing 
  - [x] Admin customization 
@@ -88,14 +88,14 @@
     - [ ] Chapter 6 : Sharing content on your website 
     - [ ] Chapter 7 : Tracking user action
     - [x] Chapter 8 : Building an online shop
-    - [ ] Chapter 9 : Managing payment and orders
+    - [x] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
     - [ ] Chapter 14 : Rendering and Caching content 
     - [ ] Chapter 15 : Building an API
-    - [ ] Chapter 16 : Building a chat server
+    - [x] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
 3. **Django for Professionals**
     - [ ] Docker
