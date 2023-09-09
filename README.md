@@ -124,6 +124,8 @@
 - [Django Debug Toolbar ↗](https://django-debug-toolbar.readthedocs.io/en/latest/)
 - [Silk ↗](https://github.com/jazzband/django-silk)
 - [django-templated-mail ↗](https://django-templated-mail.readthedocs.io/en/latest/getting_started.html)
+- [Model_Bakery ↗](https://model-bakery.readthedocs.io/en/latest/)
+- [Locust ↗]([https://model-bakery.readthedocs.io/en/latest/](https://docs.locust.io/en/stable/installation.html))
 
 ## Themes
 - [Jazzmin ↗](https://github.com/farridav/django-jazzmin)
