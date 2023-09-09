@@ -123,6 +123,7 @@
 - [Cookiecutter ↗](https://cookiecutter.readthedocs.io/en/latest/)
 - [Django Debug Toolbar ↗](https://django-debug-toolbar.readthedocs.io/en/latest/)
 - [Silk ↗](https://github.com/jazzband/django-silk)
+- [django-templated-mail ↗](https://django-templated-mail.readthedocs.io/en/latest/getting_started.html)
 
 ## Themes
 - [Jazzmin ↗](https://github.com/farridav/django-jazzmin)
