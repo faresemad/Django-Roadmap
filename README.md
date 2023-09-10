@@ -45,7 +45,7 @@
 1. **Django with Mosh**
     - [x] [Part one ↗](https://codewithmosh.com/p/the-ultimate-django-part1)
     - [x] [Part two ↗](https://codewithmosh.com/p/the-ultimate-django-part2)
-    - [ ] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
+    - [x] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
 2. **Django Core**- [Django Core ↗](https://www.udemy.com/course/django-core/)
     - [x] Django view 
     - [ ] Django models unleashed - updated & expanded
