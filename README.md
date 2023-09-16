@@ -33,8 +33,8 @@
 ## Senior
  - [x] Create or customize Model fields
  - [ ] JS framework ( Vue.js or Ajax )
- - [ ] Testing 
- - [ ] Docker
+ - [x] Testing 
+ - [x] Docker
  - [ ] Security 
 ## Must you know 
  - [x] Deployment 
