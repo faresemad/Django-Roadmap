@@ -41,6 +41,37 @@
  - [x] REST API & DOC
  - [x] Git & GitHub
 
+## Important things
+ - [x] Background Tasks
+ - [x] When We Use Redis , RabbitMQ
+ - [x] Why Redis fast?
+ - [x] Websocket VS. Webhooks
+ - [x] Middleware
+ - [x] ORM VS. SQL Raw
+ - [x] How to Secure my Django code ?
+ - [x] Support multiple languages
+ - [x] Custom User Model
+ - [x] Custom Authentication
+ - [x] n+1 problem
+ - [x] Implement OTP
+ - [x] Transaction
+ - [x] Normalization DB
+ - [x] Integrated social media platforms 
+ - [x] Integration Testing
+ - [x] Cache, Session, Cookies
+ - [x] Celery & Redis
+ - [x] Channels
+ - [x] Payments
+ - [x] Nginx
+ - [x] Dockerize Django Project
+ - [ ] Throttling
+ - [ ] Implement ML model with Django
+ - [ ] AWS S3
+ - [ ] PostgreSQL (LEARNING)
+ - [ ] MongoDB (LEARNING)
+ - [ ] Django Tanents
+ - [ ] Versioning
+
 ## Courses 
 1. **Django with Mosh**
     - [x] [Part one ↗](https://codewithmosh.com/p/the-ultimate-django-part1)
