@@ -35,7 +35,7 @@
  - [ ] JS framework ( Vue.js or Ajax )
  - [x] Testing 
  - [x] Docker
- - [ ] Security 
+ - [x] Security 
 ## Must you know 
  - [x] Deployment 
  - [x] REST API & DOC
@@ -86,10 +86,10 @@
     - [x] Chapter 4 : Building a social website 
     - [x] Chapter 5 : Implementing social Authentication 
     - [ ] Chapter 6 : Sharing content on your website 
-    - [ ] Chapter 7 : Tracking user action
+    - [x] Chapter 7 : Tracking user action
     - [x] Chapter 8 : Building an online shop
     - [x] Chapter 9 : Managing payment and orders
-    - [ ] Chapter 10 : Extending your shop
+    - [x] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
