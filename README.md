@@ -78,20 +78,15 @@
     - [x] [Part two ↗](https://codewithmosh.com/p/the-ultimate-django-part2)
     - [x] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
 2. **Django Core**- [Django Core ↗](https://www.udemy.com/course/django-core/)
-    - [x] Django view 
-    - [ ] Django models unleashed - updated & expanded
-    - [ ] Django models unleashed - Original Version 
-    - [x] Django class based views unleashed
-    - [ ] Understanding class based views - original version 
-    - [x] Forms & Formsets
-    - [x] Django templates 
-    - [x] Django translation 
-    - [ ] Django user model unleashed
-    - [ ] Django tests unleashed
-    - [ ] Deployment 
-    - [ ] Django Foreign key unleashed
-    - [ ] Time & Tasks A Guide to Connecting Django, Celery, Redis
-    - [ ] Django Hosts
+3. **Build REST APIs with Django REST Framework and Python** - [Build REST APIs with Django REST Framework and Python ↗](https://www.udemy.com/course/django-rest-framework/)
+4. **Build a Backend REST API with Python & Django - Advanced** - [Build a Backend REST API with Python & Django - Advanced ↗](https://www.udemy.com/course/django-python-advanced/)
+5. **Django Celery Mastery: Python Asynchronous Task Processing** - [Django Celery Mastery: Python Asynchronous Task Processing ↗](https://www.udemy.com/course/django-celery-mastery/)
+6. **Fullstack Python & Django** - [Fullstack Python & Django ↗](https://www.udemy.com/course/fullstack-python-django-arabic/)
+7. **المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)** - [المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django) ↗](https://www.udemy.com/course/pythondjango-arabic/)
+8. **المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)** - [المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django) ↗](https://www.udemy.com/course/pythondjango-arabic/)
+9. **Full Stack - React Django DRF Channels Project - djChat** - [Full Stack - React Django DRF Channels Project - djChat ↗](https://www.udemy.com/course/full-stack-react-django-drf-channels-project-djchat/)
+10. **Django DRF Project: eCommerce RESTful API** - [Django DRF Project: eCommerce RESTful API ↗](https://www.udemy.com/course/django-drf-project-ecommerce/)
+
 
 ## Websites 
 - [colorlib.com ↗](https://colorlib.com/) -> for templates 
