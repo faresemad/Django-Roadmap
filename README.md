@@ -64,13 +64,13 @@
  - [x] Payments
  - [x] Nginx
  - [x] Dockerize Django Project
- - [ ] Throttling
+ - [x] Django Tanents
  - [ ] Implement ML model with Django
  - [ ] AWS S3
+ - [ ] Throttling
+ - [ ] Versioning
  - [ ] PostgreSQL (LEARNING)
  - [ ] MongoDB (LEARNING)
- - [ ] Django Tanents
- - [ ] Versioning
 
 ## Courses 
 1. **Django with Mosh**
