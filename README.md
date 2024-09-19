@@ -151,7 +151,8 @@
 - [x] **Hotel Management System with Django** | [Hotel Management System with Djang](https://www.youtube.com/playlist?list=PL_KegS2ON4s5gn-d_Qpqi04bYLw3APRc5)
 
 
-## this is good channal Code With Tomi & Desphixs  
+## Good channels 
+   Code With Tomi & Desphixs  
 ## Packages 
 - [Djoser ↗](https://djoser.readthedocs.io/en/latest/)
 - [dj-rest-auth ↗](https://dj-rest-auth.readthedocs.io/en/latest/)
