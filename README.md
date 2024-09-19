@@ -140,8 +140,18 @@
     - [ ] Search 
     - [ ] Performance 
     - [ ] Security 
-    - [ ] Deployment 
+    - [ ] Deployment
+    
+## Youtube
+- [x] **Complete Django Course for Beginners** | [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm)
+- [x] **Python Django 7-Hour Masterclass** | [Python Django 7-Hour Masterclass](https://www.youtube.com/watch?v=PtQiiknWUcI)
+- [x] **Learn Django by Building an Online Marketplace** | [Learn Django by Building an Online Marketplace](https://www.youtube.com/watch?v=ZxMB6Njs3ck)
+- [x] **Build a Social Media App with Django** | [Build a Social Media App with Django](https://www.youtube.com/playlist?list=PLQ52otQ1tqfKjBvR6tVMp_sK0U3PvamBk)
+- [x] **E-commerce Fullstack Website with Django** | [E-commerce Fullstack Website with Django](https://www.youtube.com/playlist?list=PL_KegS2ON4s53FNSqgXFdictTzUbGjoO-)
+- [x] **Hotel Management System with Django** | [Hotel Management System with Djang](https://www.youtube.com/playlist?list=PL_KegS2ON4s5gn-d_Qpqi04bYLw3APRc5)
 
+
+## this is good channal Code With Tomi & Desphixs  
 ## Packages 
 - [Djoser ↗](https://djoser.readthedocs.io/en/latest/)
 - [dj-rest-auth ↗](https://dj-rest-auth.readthedocs.io/en/latest/)
